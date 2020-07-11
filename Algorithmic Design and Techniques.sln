@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maximum Pairwise Product", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Small Fibonacci Number", "Small Fibonacci Number\Small Fibonacci Number.vcxproj", "{4EE5F5C8-81BC-4E51-A537-B1C122E65C41}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Last Digit of a Large Fibonacci Number", "Last Digit of a Large Fibonacci Number\Last Digit of a Large Fibonacci Number.vcxproj", "{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Greatest Common Divisor", "Greatest Common Divisor\Greatest Common Divisor.vcxproj", "{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,22 @@ Global
 		{4EE5F5C8-81BC-4E51-A537-B1C122E65C41}.Release|x64.Build.0 = Release|x64
 		{4EE5F5C8-81BC-4E51-A537-B1C122E65C41}.Release|x86.ActiveCfg = Release|Win32
 		{4EE5F5C8-81BC-4E51-A537-B1C122E65C41}.Release|x86.Build.0 = Release|Win32
+		{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}.Debug|x64.ActiveCfg = Debug|x64
+		{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}.Debug|x64.Build.0 = Debug|x64
+		{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}.Debug|x86.Build.0 = Debug|Win32
+		{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}.Release|x64.ActiveCfg = Release|x64
+		{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}.Release|x64.Build.0 = Release|x64
+		{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}.Release|x86.ActiveCfg = Release|Win32
+		{4FBF5B88-66C7-47B8-9031-B9DC52FCCFF3}.Release|x86.Build.0 = Release|Win32
+		{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}.Debug|x64.ActiveCfg = Debug|x64
+		{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}.Debug|x64.Build.0 = Debug|x64
+		{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}.Debug|x86.Build.0 = Debug|Win32
+		{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}.Release|x64.ActiveCfg = Release|x64
+		{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}.Release|x64.Build.0 = Release|x64
+		{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}.Release|x86.ActiveCfg = Release|Win32
+		{FCF40CF6-6804-47CA-B2DE-B94F67EA04E1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
